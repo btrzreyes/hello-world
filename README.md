@@ -1,17 +1,3 @@
-// i stopped at this lesson http://programmingisfun.com/learn/c-sharp-adventure-game/c_sharp_06_refactoring/
-/*
- * BATTLE AT BAJO DE MASINLOC
- * by Beatriz Ysabel Reyes, December 20, 2017
- *  
- * This work is a derivative of 
- * "C# Adventure Game" by http://programmingisfun.com, used under CC BY.
- * https://creativecommons.org/licenses/by/4.0/
- */
-
-using System;
-/*using System.Threading; for movement in the title*/
-
-namespace Coding_Practice
 {
     public static class Game { } // public static for game class update
     class Item{}
@@ -73,5 +59,3 @@ namespace Coding_Practice
 
             Console.ReadKey();
         }
-    }
-}
